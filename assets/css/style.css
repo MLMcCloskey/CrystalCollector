@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://pre00.deviantart.net/d5df/th/pre/f/2017/287/5/e/crystal_cave_by_eru17-d7cgbjj.jpg);
+}
+
+.jumbotron {
+    text-align: center;
+    background-color:#73D7E7;
+    padding: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.card {
+    text-align: center;
+    border: 2px groove gold;
+}
+
+.blue {
+    background-color:#73D7E7;
+}
+
+.btn-default {
+    background-color: yellow;
+    border: 5px dotted gold;
+    padding: 0;
+    align-content: center;
+}
+
+.btn-warning {
+    padding: 10px 45px;
+}
+
+.row {
+    align-content: center;
+}
